@@ -1,0 +1,26 @@
+.lista-de-links {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 3em;
+    margin-top: 3em;
+    
+}
+
+.links {
+    background-color:#FFC0CB ;
+    padding: 1em 3em 1em 5em;
+    width: 16em;
+    height: 4em;
+    display: flex;
+    align-items: center;
+    font-family: "Poppins", sans-serif;
+    border-radius: 1em;
+    
+}
+a {
+    font-size: 1.3em;
+    font-weight: 600;
+    color: aliceblue;
+}
