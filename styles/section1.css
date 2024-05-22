@@ -8,19 +8,29 @@
     
 }
 
+
+
 .links {
     background-color:#FFC0CB ;
-    padding: 1em 3em 1em 5em;
-    width: 16em;
+    width: 24em;
     height: 4em;
     display: flex;
+    justify-content: flex-start;
     align-items: center;
+    flex-direction: row;
     font-family: "Poppins", sans-serif;
     border-radius: 1em;
     
+    gap: 1em;
+    padding-left: 1em;
 }
 a {
+    
     font-size: 1.3em;
     font-weight: 600;
     color: aliceblue;
+}
+
+.margemF {
+    margin-bottom: 2em;
 }
