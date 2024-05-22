@@ -3,7 +3,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    gap: 3em;
+    gap: 1em;
     margin-top: 3em;
     
 }
@@ -11,6 +11,7 @@
 
 
 .links {
+
     background-color:#FFC0CB ;
     width: 24em;
     height: 4em;
@@ -20,9 +21,8 @@
     flex-direction: row;
     font-family: "Poppins", sans-serif;
     border-radius: 1em;
-    
     gap: 1em;
-    padding-left: 1em;
+    padding: 0.5em 1em ;
 }
 a {
     
