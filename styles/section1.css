@@ -6,6 +6,7 @@
     gap: 1em;
     margin-top: 3em;
     
+    
 }
 
 
@@ -13,7 +14,7 @@
 .links {
 
     background-color:#FFC0CB ;
-    width: 24em;
+    width: 22em;
     height: 4em;
     display: flex;
     justify-content: flex-start;
@@ -22,7 +23,7 @@
     font-family: "Poppins", sans-serif;
     border-radius: 1em;
     gap: 1em;
-    padding-left: 0.5em;
+    padding-left: 1em;
     
 }
 a {
