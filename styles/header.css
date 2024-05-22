@@ -5,6 +5,9 @@ body{
     
     
 }
+.header img {
+    margin-top: 3em;
+}
 .header {
     display: flex;
     justify-content: center;
