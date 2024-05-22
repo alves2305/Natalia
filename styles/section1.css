@@ -22,13 +22,15 @@
     font-family: "Poppins", sans-serif;
     border-radius: 1em;
     gap: 1em;
-    padding: 0.5em 0.5em ;
+    padding-left: 0.5em;
+    
 }
 a {
     
     font-size: 1.3em;
     font-weight: 600;
     color: aliceblue;
+    padding: 0.5em 0.5em ;
 }
 
 .margemF {
